@@ -19,10 +19,10 @@ Or deploy directly to Cloudflare:
 
 ## Free Mode Notes
 
-| Mode | Description | Paid plan required |
-| --- | --- | --- |
-| Free maintenance mode | `worker_loaders` disabled. Core CMS stays available (content, admin, auth, media, themes). | No |
-| Sandboxed plugin mode | Dynamic Worker Loader enabled. Plugins run in isolated Workers. | Yes |
+| Mode                  | Description                                                                                | Paid plan required |
+| --------------------- | ------------------------------------------------------------------------------------------ | ------------------ |
+| Free maintenance mode | `worker_loaders` disabled. Core CMS stays available (content, admin, auth, media, themes). | No                 |
+| Sandboxed plugin mode | Dynamic Worker Loader enabled. Plugins run in isolated Workers.                            | Yes                |
 
 ### Default free-tier wrangler config
 
