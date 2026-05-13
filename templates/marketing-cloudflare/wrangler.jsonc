@@ -15,7 +15,7 @@
 			"binding": "MEDIA",
 			"bucket_name": "my-marketing-media",
 		},
-	]
+	],
 	// Optional (paid plan): enable plugin sandboxing with Dynamic Worker Loader.
 	// Uncomment this block only if your Cloudflare plan supports worker loaders.
 	// "worker_loaders": [
